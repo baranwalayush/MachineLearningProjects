@@ -4,17 +4,16 @@ This repository is focused on different projects related to machine learning.
 
 <b>Project 1</b>:
 <br>
-    Name - <b>House Price Prediction Model</b>
+    <b>Name</b> - <b>House Price Prediction Model</b>
     <br>
-    Detail - We have been provided with a house price dataset containing various features and price of a house, and we need to build a model that can predict prices for new houses on the basis of their features. To know more about the dataset, see 'data_description.txt'.
+    <b>Detail</b> - We have been provided with a house price dataset containing various features and price of a house, and we need to build a model that can predict prices for new houses on the basis of their features. To know more about the dataset, see 'data_description.txt'.
     <br>
-    Type - Supervised Learning, Regression Problem
+    <b>Type</b> - Supervised Learning, Regression Problem
     <br>
-    Steps performed - Data Collection and Preprocessing, Exploratory Data Analysis(EDA), Feature Engineering, Model Selection and Training, Prediction
+    <b>Steps performed</b> - Data Collection and Preprocessing, Exploratory Data Analysis(EDA), Feature Engineering, Model Selection and Training, Prediction
     <br>
-    Models used - <b>Linear regression</b>, <b>Ridge regression</b>, <b>Lasso regression</b>, <b>Support Vector regressor</b>, <b>Decision Tree regressor</b>, <b>XGB regressor</b>
+    <b>Models used</b> - <b>Linear regression</b>, <b>Ridge regression</b>, <b>Lasso regression</b>, <b>Support Vector regressor</b>, <b>Decision Tree regressor</b>, <b>XGB regressor</b>
     <br>
-    Results - Out of all these regression models, <b>Decision Tree</b> and <b>XGB regressor</b> performed the best with <b>R<sup>2</sup> score</b> of 0.862 and 0.877 respectively.
+    <b>Results</b> - Out of all these regression models, <b>Decision Tree</b> and <b>XGB regressor</b> performed the best with <b>R<sup>2</sup> score</b> of <b>0.862</b> and <b>0.877</b> respectively.
     <br>
-    P.S. - On Kaggle, this model ranks 2191 with submission score of 0.14
 
